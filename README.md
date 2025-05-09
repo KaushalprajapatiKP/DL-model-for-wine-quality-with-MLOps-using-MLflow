@@ -35,13 +35,13 @@ The MLflow UI will be available at: http://localhost:5000
 
 Open and execute all cells in project-research.ipynb to:
 
-## Load data
+### 1. Load data
 
-## Train and evaluate the ANN model
+### 2. Train and evaluate the ANN model
 
-## Log experiments and metrics using MLflow
+### 3. Log experiments and metrics using MLflow
 
-## 📊 Output
+### 4. 📊 Output
 
 Model performance, metrics, and artifacts are logged and viewable via the MLflow UI.
 
