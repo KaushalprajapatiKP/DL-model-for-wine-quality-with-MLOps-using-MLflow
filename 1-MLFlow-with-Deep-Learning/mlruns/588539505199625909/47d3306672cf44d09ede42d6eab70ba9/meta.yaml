@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/codespaces-blank/1-MLFlow-with-Deep-Learning/mlruns/588539505199625909/47d3306672cf44d09ede42d6eab70ba9/artifacts
+end_time: 1746799687866
+entry_point_name: ''
+experiment_id: '588539505199625909'
+lifecycle_stage: active
+run_id: 47d3306672cf44d09ede42d6eab70ba9
+run_name: caring-finch-520
+run_uuid: 47d3306672cf44d09ede42d6eab70ba9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746799679904
+status: 3
+tags: []
+user_id: codespace

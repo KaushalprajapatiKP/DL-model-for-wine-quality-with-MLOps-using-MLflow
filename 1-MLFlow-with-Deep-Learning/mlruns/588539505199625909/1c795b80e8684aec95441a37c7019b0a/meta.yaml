@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/codespaces-blank/1-MLFlow-with-Deep-Learning/mlruns/588539505199625909/1c795b80e8684aec95441a37c7019b0a/artifacts
+end_time: 1746799709479
+entry_point_name: ''
+experiment_id: '588539505199625909'
+lifecycle_stage: active
+run_id: 1c795b80e8684aec95441a37c7019b0a
+run_name: sneaky-boar-892
+run_uuid: 1c795b80e8684aec95441a37c7019b0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746799668772
+status: 3
+tags: []
+user_id: codespace
